@@ -1,2 +1,2 @@
 # hello-world
-A freshman learn how to use Github
+A freshman learns how to use Github
